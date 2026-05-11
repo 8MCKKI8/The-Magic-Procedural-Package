@@ -6,7 +6,7 @@ Demo Video: <https://youtu.be/-S2yAn5NEzA?si=I4fi3N28Ohlrdizx>
 ## GitHub Repository
 GitHub Repo: <https://github.com/8MCKKI8/The-Magic-Procedural-Package.git>
 
-## # YOKO ORGANIC
+## YOKO ORGANIC
 
 YOKO ORGANIC is a custom procedural toolset created for Houdini that focuses on making procedural world building more accessible and beginner friendly.
 The project was designed to simplify the process of developing geo node setups by generating customizable built-in geometry systems automatically with the click of a button. 
