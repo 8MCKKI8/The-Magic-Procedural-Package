@@ -1,18 +1,15 @@
-import sys
 import os
-import hou
-
+import sys
 
 PROJECT_ROOT = os.environ.get("YOKO_ROOT")
 
 if not PROJECT_ROOT:
-    PROJECT_ROOT = os.getcwd()
+    PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 PROJECT_ROOT = os.path.abspath(PROJECT_ROOT)
 
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
-
 
 
 
