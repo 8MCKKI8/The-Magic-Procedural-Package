@@ -33,7 +33,7 @@ import project
 importlib.reload(project)
 
 
-project.launch()
+project.project()
 
 
 -----------------------------------------------------------------------
