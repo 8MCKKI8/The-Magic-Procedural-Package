@@ -1,8 +1,0 @@
-#LIFESAVER: TELLS THE NAMES OF THE NODES
-#import hou
-
-#nodes = hou.selectedNodes()
-#if nodes:
-    #print(nodes[0].type().name())
-#else:
-    #print("No node selected")
