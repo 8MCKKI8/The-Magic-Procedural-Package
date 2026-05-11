@@ -8,17 +8,29 @@ __   __    _  __
 ---------------------
 HELLO! And Thank you for downloading YoKo.ORGANIC! 
 
-Please paste the following into your Houdini Shelf tool!:
+The following are  the steps on how to properly  set it up!
+
+1.Move the actual YoKo file: (YoKo.version.0.0.0) to your downloads folder. (this is a requirement)
+
+----------------------------------------------
+
+2. Create a new self with a new shelf tool in Houdini.
+
+(if you're having trouble with this please watch this tutorial: https://youtu.be/Iv2EfRohc7o?si=02yT7WQVvAL145dj)
+
+-------------------------------------------------
+
+3. Please paste the following into your Houdini Shelf tool!:
 
 
-REMEMBER TO PUT YOUR REPLACE THE [********] WITH YOUR USERNAME!
-
-AND PLEASE MOVE THE ACTUAL YOKO FILE (YoKo.version.0.0.0) TO YOUR DOWNLOADS FOLDER BEFORE CONTINUING!!!
+REMEMBER TO PUT YOUR REPLACE THE [********] WITH YOUR DESKTOP USERNAME!
 
 
-THANK YOU!!!
-
-
+  ____          _      
+ / ___|___   __| | ___ 
+| |   / _ \ / _` |/ _ \
+| |__| (_) | (_)| |  __/
+ \____\___/ \__,_|\___|
 -----------------------------------------------------------------------
 
 import sys
@@ -42,3 +54,4 @@ project.project()
 
 
 
+enjoy!
