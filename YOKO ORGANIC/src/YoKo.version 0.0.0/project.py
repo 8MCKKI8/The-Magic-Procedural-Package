@@ -1,3 +1,5 @@
+import hou
+
 import os
 import sys
 
